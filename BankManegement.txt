@@ -1,0 +1,6 @@
+Nome: edu
+Saldo: 300.00
+Agencia: 2020
+Conta criada em: 20/20/20 
+Status da conta: 1
+Numero da conta: 31
